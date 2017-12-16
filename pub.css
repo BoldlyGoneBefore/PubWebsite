@@ -1,0 +1,36 @@
+body {
+    	background-color: navy;
+}
+
+.upcircle {
+	text-align: center;
+	color: white;
+	font-size: 5vmax;
+	text-shadow: .3vmax .2vmax  grey;
+	font-weight: 600;
+}
+
+.downcircle {
+	text-align: center;
+	color: white;
+	font-size: 5vmax;
+	text-shadow: .3vmax .2vmax  grey;
+	font-weight: 600;
+}
+
+.bigify {
+	text-align: center;
+	color: white;
+	font-size: 15vmax;
+	text-shadow: .3vmax .2vmax  grey;
+	font-weight: 900;
+
+}
+
+
+.information {
+	text-align: center;
+	font-size: 1vmax;
+	color: grey;
+
+}
